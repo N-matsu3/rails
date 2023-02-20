@@ -25,4 +25,5 @@ Things you may want to cover:
 # rails
 
 #lesson2
-🍚 モデルはデータベースを見やすくするもの
+🍚 モデルはデータベースを見やすくするもの。
+railsはターミナルがbashがpumaに切り替わってしまうため
