@@ -27,3 +27,6 @@ Things you may want to cover:
 #lesson2
 🍚 モデルはデータベースを見やすくするもの。
 railsはターミナルがbashがpumaに切り替わってしまうため
+
+#lesson7
+👉 resources :lists リソース複数形が抜けていた
