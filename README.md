@@ -30,3 +30,6 @@ railsはターミナルがbashがpumaに切り替わってしまうため
 
 #lesson7
 👉 resources :lists リソース複数形が抜けていた
+
+lesson??
+フラッシュメッセージが上手く表示されない？？
